@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firestarter-2409a": {
+      "hosting": {
+        "firestarter": [
+          "firestarter-2409a"
+        ]
+      }
+    }
+  }
+}
